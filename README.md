@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+🌱 I’m currently learning how to use GitHub.  I'd like to be an active user in the GitHub Community.
+
+Right now, I am testing to see if the static line appears after each row. 
+
+I realized that it does not; however, I just learned that I must skip a row in order for content to appear on a separate line.  As well as there is no spell check...possibly 🤔 
 
 <!--
 **BOPS-PM/BOPS-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
